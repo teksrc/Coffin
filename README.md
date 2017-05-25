@@ -23,7 +23,7 @@ This notification also has a button to immediately shutdown the OS, if necessary
  Coffin is perfect for those with a tight schedule, and students. 
 
 Inpsiration came from http://sleepyti.me and my unhealthy lack of a correct sleep cycle during the Thinkful bootcamp.
-Read more about how this works at http://bits.blogs.nytimes.com/2013/02/27/test-run-sleepytime-a-bedtime-calculator
+
 </div>
 
 ## Demo of Coffin
