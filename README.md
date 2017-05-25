@@ -38,7 +38,7 @@ git clone https://github.com/Frankcarvajal/Coffin
 ```
 
 Otherwise to just get the application click the link before to head to the latest release page and download your respective platform.
-##### [Version 1.6.0 Release](https://github.com/Frankcarvajal/Coffin/releases/tag/v1.0.0)
+##### [Version 10.0 Release](https://github.com/Frankcarvajal/Coffin/releases/tag/)
 
 
 ## Install
