@@ -1,6 +1,6 @@
 <div align="center">
 
- # ![Coffin](https://github.com/Frankcarvajal/Coffin/blob/master/sleep_github.png) Coffin ![Coffin](https://github.com/Frankcarvajal/Coffin/blob/master/sleep_github.png)
+ # ![Coffin](https://github.com/Frankcarvajal/Coffin/blob/master/sleep_github.png) 
 
  ####  Vampire Developers Needed An Application To Remind Them To Stop Coding, And Go To Sleep, Via Coffin.
 
