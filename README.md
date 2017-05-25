@@ -4,7 +4,7 @@
  
  # Coffin
 
- ####  Vampire Developers Needed An Application To Remind Them To Stop Coding, And Go To Sleep, Via Coffin.
+ ####  Vampire developers needed an application to remind them to stop coding, and go to Sleep, via Coffin.
 
 ![Version](https://img.shields.io/github/release/Frankcarvajal/Coffin/all.svg) [![Github All Releases](https://img.shields.io/github/downloads/Frankcarvajal/Coffin/total.svg)]()  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/12b7f0ba50924e73b3efba2927a8c3ea)](https://www.codacy.com/app/Frankcarvajal/Coffin?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Frankcarvajal/Coffin&amp;utm_campaign=Badge_Grade)  ![framework](https://img.shields.io/badge/framework-electron-blue.svg)  ![platform](https://img.shields.io/badge/platform-crossplatform-lightgrey.svg)  [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)]()
 
