@@ -1,0 +1,10 @@
+{
+  "dest": "dist/installers/",
+  "icon": "sleep.ico",
+  "tags": [
+    "Utility"
+  ],
+  "name": "Coffin",
+  "homepage":"https://github.com/Frankcarvajal/Coffin"
+
+}
