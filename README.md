@@ -26,7 +26,7 @@ Inpsiration came from http://sleepyti.me and my unhealthy lack of a correct slee
 
 </div>
 
-## In Action
+## Demo of Coffin
 
 ![Usage](https://github.com/Frankcarvajal/Coffin/blob/master/screenshots/Usage.gif)
 
@@ -38,7 +38,7 @@ git clone https://github.com/Frankcarvajal/Coffin
 ```
 
 Otherwise to just get the application click the link before to head to the latest release page and download your respective platform.
-##### [Version 10.0 Release](https://github.com/Frankcarvajal/Coffin/releases/tag/)
+##### [Version 1.0.0 Release](https://github.com/Frankcarvajal/Coffin/releases/tag/)
 
 
 ## Install
@@ -56,11 +56,11 @@ sudo apt-get install libappindicator1
 then depending on your system architechture either run
 
 ```bash
-sudo dpkg -i Coffin_1.6.0_amd64.deb
+sudo dpkg -i Coffin_1.0.0_amd64.deb
 ```
 Or:
 ```bash
-sudo dpkg -i Coffin_1.6.0_x86.deb
+sudo dpkg -i Coffin_1.0.0_x86.deb
 ```
 #### RedHat
 ```bash
