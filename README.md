@@ -11,15 +11,18 @@
 
  ![VAMPIRE DEVS](https://github.com/Frankcarvajal/Coffin/blob/master/giphy.gif)
 
- Coffin will remind you to take a rest and that you can always come back to the work tomorrow.
+Coffin is an app designed to help you wake up in-between sleep cycles and allows you to start the day with a clear mind. 
 
-A sleep cycle is a 90-minute chunk of time where your body transitions through various phases of sleep — all the way down to deep REM sleep — then back again. Some health experts believe that these 90-minute sleep cycles are the key to restful sleep. They recommend trying to sleep exactly 7.5 hours — or even 9 hours, if you have the time.
-
+Every time you sleep, you enter into a series of sleep cycles that last for around 90 minutes, but even if you seem to get plenty of hours of sleep, waking up during one of the cycles can make you feel groggy and exhausted. 
+A sleep cycle is a 90-minute chunk of time where your body transitions through various phases of sleep with the goal being deep REM sleep. Experts recommend trying to sleep exactly 7.5 hours — or even 9 hours, if you have the time.
+Coffin will remind you to take a rest and that you can always come back to the work tomorrow.
 
 Based on your wakeup time, the sleep algorithm Coffin calculates the best times for you to sleep. It will notify you with native notifications throughout the night when the optimal times to shutdown your computer and head to your coffin.
 This notification also has a button to immediately shutdown the OS, if necessary. 
 
-Inpsiration came from http://sleepyti.me and grew into a desktop notification application called Coffin.
+ Coffin is perfect for those with a tight schedule, and students. 
+
+Inpsiration came from http://sleepyti.me and my unhealthy lack of a correct sleep cycle during the Thinkful bootcamp.
 
 </div>
 
